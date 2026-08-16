@@ -4,8 +4,18 @@
 
 **▶ 在线播放：** https://ymustc.github.io/murripple-demo/
 
-这个仓库只存放成品页面（单个零依赖的 `index.html`，音频与数据全部内嵌）。
-源码在另一个仓库，尚未公开。
+这个仓库只存放**成品页面**（单个零依赖的 `index.html`，音频与数据全部内嵌）。
+
+- **代码在这里**：<https://github.com/ymustc/murRipple-public>
+  —— 许可证 PolyForm Noncommercial 1.0.0（**不是开源许可证**：随便改、随便玩、
+  不能商用）。仓里带着这首歌，clone 完就能自己跑一遍。
+- **项目介绍**：<https://murripple.miao-yu.com>
+
+做出这一页的，是下面这个界面——跑在你自己的机器上：
+
+<p align="center">
+  <img src="shell.png" alt="本机壳子：选一个文件或粘一条链接、把歌词贴进来、点开始" width="680">
+</p>
 
 **这首歌**：《Trempe-moi》，3 分 58 秒，法语。音乐由 Suno 生成，歌词由 YU Miao
 创作，**版权归他本人**。它同时是这套工具的第一首非中文素材。
